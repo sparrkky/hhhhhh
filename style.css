@@ -1,0 +1,35 @@
+
+
+body{
+    margin: 20px;
+    background-color: aqua;
+}
+
+.ava {
+    width: 200px;
+    padding: 20px;
+    margin: 15px;
+}
+.card {
+    border: 2px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+    display: flex;
+    width: 800px;
+    border-radius: 10px;
+    background-color: #E3A76F;
+    text-align: center;
+
+}
+.mee {
+    margin-left: 90px;
+    margin-top: 20px;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   }
+
+   .anna {
+    font-size: 30px;
+    color: rgb(42, 165, 104);
+   }
